@@ -8,3 +8,4 @@
 - ⚡ Fun fact: "js is a prime example of presenting bugs as features!😂"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal19111999)](https://github.com/anuraghazra/github-readme-stats)
+[![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Vishal19111999)](https://github.com/anuraghazra/github-readme-stats)
