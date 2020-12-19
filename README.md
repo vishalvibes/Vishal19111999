@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [House of Geeks Projects](https://github.com/houseofgeeks)
-- 🌱 I’m currently learning "Modern C++ Development"
-- 🤔 I’m looking for help with "Open Source C++"
+- 🔭 I’m currently working on [Gifft](https://github.com/gifft-life)
+- 🌱 I’m currently learning "C++ and Javascript Development"
+- 🤔 I’m looking for help with "Open Source"
 - 💬 Ask me about "Reactjs, Typescript, C++, Data Structures and Algorithms"
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 - ⚡ Fun fact: "js is a prime example of presenting bugs as features!😂"
