@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Gifft](https://github.com/gifft-life)
+- 🔭 I’m currently working on [Dank-Devs](https://github.com/Dank-Devs) and some interesting open source projects!
 - 🌱 I’m currently learning "C++ and Javascript Development"
 - 🤔 I’m looking for help with "Open Source"
 - 💬 Ask me about "Reactjs, Typescript, C++, Data Structures and Algorithms"
